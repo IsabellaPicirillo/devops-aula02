@@ -1,4 +1,5 @@
 # devops-aula02
 * Emma Watson
-* Viola Davis
+* Jennifer Lawrence
 * Tatiany Maslany
+* Robert Downey Jr
